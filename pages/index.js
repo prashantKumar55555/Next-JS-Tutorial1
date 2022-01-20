@@ -9,7 +9,6 @@ export default function Home() {
     router.push('/product');
   }
   return (
-    <>Testing</>
     <div className={styles.container}>
   <h1>Welcome to HomePage</h1>  
   <Link href="/blog">
