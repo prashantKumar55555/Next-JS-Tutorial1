@@ -8,6 +8,7 @@ export default function Home() {
   const handleClick = ()=>{
     router.push('/product');
   }
+  // Next.JS Tutorial
   return (
     <div className={styles.container}>
   <h1>Welcome to HomePage</h1>  
